@@ -1,5 +1,35 @@
 # ☕ Coffee Delivery ☕
 
+<p align="center">
+  <img src="src/assets/coffee-delivery.gif">
+</p>
+
+## How to run
+
+Clone the repo:
+```
+git clone https://github.com/msawaguchi/coffee-delivery-frontend.git
+```
+Install dependencies:
+
+```
+pnpm i
+```
+
+Run the fake server: 
+
+```
+pnpm run dev:server
+```
+
+Run Application:
+
+```
+pnpm run dev
+```
+
+---
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
